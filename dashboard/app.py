@@ -52,6 +52,8 @@ df['Action_Bucket'] = df['Final_Recommendation'].apply(action_bucket)
 # =========================================================
 
 app = dash.Dash(__name__)
+server = app.server
+
 app.title = "Dynamic Pricing Intelligence Dashboard"
 
 # =========================================================
