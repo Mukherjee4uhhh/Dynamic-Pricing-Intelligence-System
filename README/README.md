@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-2.14-119DFF?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com)
-[![Azure](https://img.shields.io/badge/Deployed_on-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![SciPy](https://img.shields.io/badge/SciPy-1.11-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
