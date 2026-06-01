@@ -2,7 +2,7 @@
 
 > **Identified £48,320 projected revenue uplift** across 503 SKUs using price elasticity
 > modeling, competitor benchmarking, and automated pricing recommendations —
-> deployed live on Microsoft Azure.
+> deployed live on Render Cloud.
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-2.14-119DFF?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com)
